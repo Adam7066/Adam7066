@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning **C++, Vue.js, Golang**
 
 - 📝 I write articles on [小十的部落格](https://blog.smallten.me)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam7066&animation=load" />
